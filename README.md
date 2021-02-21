@@ -1,2 +1,1 @@
-# measure.me-site
-Site pages for measureme.com
+# This repo is to host static files for measureme.com landing site
